@@ -2,7 +2,7 @@
 php fuzz脚本
 
 
-
+```
 python3 php_fuzz.py
 
 use：
@@ -13,7 +13,7 @@ use：
 输入被过滤函数：o|v|b|print|var|time|file|sqrt|path|dir|exp|pi|an|na|en|ex|et|na|dec|true|false
 输入分隔符(直接回车默认为空格)：|
 
-```
+
 phpcredits()
 array_flip()
 apache_request_headers()
