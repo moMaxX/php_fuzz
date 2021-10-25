@@ -1,4 +1,4 @@
 # php_fuzz
 php fuzz脚本
 
-![image-20211025190059208](/Users/414a/data/字典/1.assets/image-20211025190059208.png)
+![image-20211025190059208](./CD8238A1B8E825B844B382015D521E46.jpg)
